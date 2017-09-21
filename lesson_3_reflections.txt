@@ -6,3 +6,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork: Other's GitHub -> My GitHub
 Clone: Github -> local
 branch: local -> local
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Keep a common ancestor point, when git fetch, we can easily see what has been updated by the others. 
+
